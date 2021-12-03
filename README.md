@@ -2,7 +2,7 @@
 
 ------------
 
-Este es un proyecto Usaremos HTML5 para crear una página web sencilla, esta contara con varios apartados como:
+Este es un proyecto Usaremos diferentes framework de JavaScript para crear un OVA sencillO, esta contara con varios apartados como:
 
 -	Presentación
 -	Pagina inicial 
