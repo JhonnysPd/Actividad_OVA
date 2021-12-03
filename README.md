@@ -3,6 +3,8 @@
 ------------
 
 Este es un proyecto Usaremos HTML5 para crear una página web sencilla, esta contara con varios apartados como:
+
+-	Presentación
 -	Pagina inicial 
 -	Contenido 
 -	Actividades 
@@ -12,12 +14,14 @@ Este es un proyecto Usaremos HTML5 para crear una página web sencilla, esta con
 
 ------------
 
-Trataremos la temática de“Educación tecnológica” dirigida a niños de 5° de primaria donde trataremos las siguientes temáticas como:
+Trataremos la temática de “LA DIVISIÓN PARA NIÑOS DE 5 DE PRIMARIA° donde trataremos las siguientes temáticas como:
 
--	Delitos informáticos
--	uso de dispositivos (como apoyo a la formación)
--	correcto uso de internet 
--	recomendaciones de páginas o programas académicos
+-	¿Qué es la división?.
+- 	Elementos de la división. 
+-	Propiedades de la división. 
+-	División entre uno (1) y dos (2) cifras.
+-	Leyes de la división. 
+
 
 
 ------------
@@ -26,11 +30,13 @@ Trataremos la temática de“Educación tecnológica” dirigida a niños de 5°
 
 ------------
 1. Jhonnys javier padilla pitalua
-2. --
-3. --
-
+2. Jose Enrrique Argel Burgos
+3. Luis Ángel Izquierdo Vargas
+4. Fabian Andrés luna tirado
 
 ------------
 <center>
-	<h5>LIEMAV - 2021</h5>
+	<h5>UNIVERSIDAD DE CÓRDOBA</h5>
+	<h5>LIEMAV</h5>
+	<h5>2021</h5>
 </center>
