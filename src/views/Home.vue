@@ -1,39 +1,41 @@
 <template>
-    <div class='v-align'>
-      <img src="../assets/12.png">
-      <div class='hero-btn'>
-        <router-link to="/dashboard" tag="div">
-          <button class='btn'>SIGUIENTE</button>
-        </router-link>
-      </div>
-    </div>
+<div class="fondo">
+    <v-parallax dark src="@/assets/bg.png" cols="12" height="1000" class="fondo1">
+     <v-row align="center" justify="center">
+        <v-col class="text-center" cols="12">
+          <v-container class="col-12" responsive>
+            <v-row>
+              <v-col class="img">
+               <img src="../assets/12.png" width="400px" height="400px">
+                 <div class='hero-btn'>
+                  <router-link to="/dashboard" tag="div">
+                  <button class='btn'>SIGUIENTE</button>
+                  </router-link>
+               </div>
+              </v-col>
+            </v-row>
+          </v-container>
+        </v-col>
+      </v-row>
+     </v-parallax>
+  </div>
 </template>
 
 <style scoped>
-/*
-* {
-  padding: 0;
+
+.fondo1 {
+  display: grid;
   margin: 0;
-	-moz-box-sizing: border-box;
-	-webkit-box-sizing: border-box;
-	box-sizing: border-box;
-}
-  
-body {
-	background: #f8faff url('../assets/bg.png');
-	background-size:cover;
-	background-attachment:fixed;
-}
-*/
-.v-align {
-  text-align: center;
-  margin: 100px auto;
-	width: 80%;
+  padding: 0;
+  position: relative;
+  height: 100vh;
+  width: 100%;
+  background-size: cover;
+  background-image: url('../assets/bg.png');
 }
 
-.v-align img { 
-	margin-bottom: 3%;
-	width: 32%;
+.img img { 
+	margin: 3%;
 }
 
 @import url("https://fonts.googleapis.com/css?family=Montserrat:400, 600");
@@ -97,13 +99,5 @@ body {
   -webkit-box-shadow: 0 20px 40px rgba(255, 0, 131, 0.5);
   box-shadow: 0 20px 40px rgba(255, 0, 131, 0.5);
 }
-
-@media screen and (max-width: 1000px) {
-	.v-align img {
-		width: 65%;
-	}
-
-}
-
 
 </style>
