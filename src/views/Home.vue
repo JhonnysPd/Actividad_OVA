@@ -9,7 +9,7 @@
                <img src="../assets/12.png" width="400px" height="400px">
                  <div class='hero-btn'>
                   <router-link to="/dashboard" tag="div">
-                  <button class='btn'>SIGUIENTE</button>
+                  <button class='btn'>SIGUIENTE hola</button>
                   </router-link>
                </div>
               </v-col>
