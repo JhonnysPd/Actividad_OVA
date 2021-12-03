@@ -14,7 +14,7 @@ Este es un proyecto Usaremos HTML5 para crear una página web sencilla, esta con
 
 ------------
 
-Trataremos la temática de “LA DIVISIÓN PARA NIÑOS DE 5 DE PRIMARIA° donde trataremos las siguientes temáticas como:
+Trataremos la temática de “LA DIVISIÓN PARA NIÑOS DE 5° DE PRIMARIA" donde trataremos las siguientes temáticas como:
 
 -	¿Qué es la división?.
 - 	Elementos de la división. 
