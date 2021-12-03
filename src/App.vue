@@ -4,11 +4,6 @@
   </div>
 </template>
 
-<style scoped>
-
-#app {
- }
-
-
+<style>
 
 </style>
