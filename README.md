@@ -1,24 +1,42 @@
-# ova
+# Contenido 
 
-## Project setup
-```
-npm install
-```
+------------
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+Este es un proyecto Usaremos HTML5 para crear una página web sencilla, esta contara con varios apartados como:
 
-### Compiles and minifies for production
-```
-npm run build
-```
+-	Presentación
+-	Pagina inicial 
+-	Contenido 
+-	Actividades 
+-	Evaluación 
+-	Créditos 
 
-### Lints and fixes files
-```
-npm run lint
-```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+------------
+
+Trataremos la temática de “LA DIVISIÓN PARA NIÑOS DE 5° DE PRIMARIA" donde trataremos las siguientes temáticas como:
+
+-	¿Qué es la división?.
+- 	Elementos de la división. 
+-	Propiedades de la división. 
+-	División entre uno (1) y dos (2) cifras.
+-	Leyes de la división. 
+
+
+
+------------
+
+## Integrantes del proyecto 
+
+------------
+1. Jhonnys javier padilla pitalua
+2. Jose Enrrique Argel Burgos
+3. Luis Ángel Izquierdo Vargas
+4. Fabian Andrés luna tirado
+
+------------
+<center>
+	<h5>UNIVERSIDAD DE CÓRDOBA</h5>
+	<h5>LIEMAV</h5>
+	<h5>2021</h5>
+</center>
